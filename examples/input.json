@@ -1,0 +1,9 @@
+{
+  "companies": [
+    "https://jobs.ashbyhq.com/ramp",
+    "robinhood",
+    "https://greatminds.recruitee.com"
+  ],
+  "onlyWithSalary": true,
+  "maxItems": 50
+}
